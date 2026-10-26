@@ -8,6 +8,7 @@ div.pageContent {
   text-align: center;
 }
 
+#img_sprite_front_default,
 img.img_sprite_front_default {
   width: 96px;
   height: 96px;
@@ -21,4 +22,5 @@ button#next {
   text-align: center;
   display: inline-block;
   font-size: 18px;
+  cursor: pointer;
 }
